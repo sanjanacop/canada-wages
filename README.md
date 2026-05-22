@@ -1,4 +1,4 @@
-# 🍁 The Impact of AI Adoption on Canadian Wages
+# The Impact of AI Adoption on Canadian Wages
 
 A data analysis project exploring how artificial intelligence adoption has affected Canadian wages across provinces, gender, and education levels.
 
